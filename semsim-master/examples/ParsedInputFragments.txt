@@ -1,0 +1,16 @@
+(|about| |using| |Wikipedia|) 0 ; ()
+gr-list: 1
+(|xcomp| _ |about:1_II| |use+ing:2_VVG|)
+(|dobj| |use+ing:2_VVG| |Wikipedia:3_NP1|)
+
+
+(|releases| |on| |Wikipedia| |and| |the| |Wikimedia| |Foundation|) 0 ; ()
+gr-list: 1
+(|iobj| |release+s:1_VVZ| |on:2_II|)
+(|dobj| |on:2_II| |and:4_CC|)
+(|conj| |and:4_CC| |Wikipedia:3_NP1|)
+(|conj| |and:4_CC| |Foundation:7_NN1|)
+(|det| |Foundation:7_NN1| |the:5_AT|)
+(|ncmod| _ |Foundation:7_NN1| |Wikimedia:6_NP1|)
+
+

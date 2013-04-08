@@ -1,0 +1,83 @@
+(|Bulletin| |board| |,| |projects| |,| |resources| |and| |activities| |covering| |a| |wide| |range| |of| |Wikipedia| |areas| |.|) 0 ; ()
+gr-list: 1
+(|ncsubj| |cover+ing:9_VVG| |and:7_CC| _)
+(|dobj| |cover+ing:9_VVG| |range:12_NN1|)
+(|det| |range:12_NN1| |a:10_AT1|)
+(|ncmod| _ |range:12_NN1| |wide:11_JJ|)
+(|iobj| |range:12_NN1| |of:13_IO|)
+(|dobj| |of:13_IO| |area+s:15_NN2|)
+(|ncmod| _ |area+s:15_NN2| |Wikipedia:14_NP1|)
+(|conj| |and:7_CC| |board:2_NN1|)
+(|conj| |and:7_CC| |project+s:4_NN2|)
+(|conj| |and:7_CC| |resource+s:6_NN2|)
+(|conj| |and:7_CC| |activity+s:8_NN2|)
+(|ncmod| _ |board:2_NN1| |Bulletin:1_NN1|)
+
+
+(|Ask| |questions| |about| |using| |Wikipedia| |.|) 1 ; (-12.585)
+gr-list: 1
+(|dobj| |Ask:1_VV0| |question+s:2_NN2|)
+(|xmod| _ |question+s:2_NN2| |about:3_II|)
+(|xcomp| _ |about:3_II| |use+ing:4_VVG|)
+(|dobj| |use+ing:4_VVG| |Wikipedia:5_NP1|)
+
+
+(|For| |Wikipedia-related| |communication| |in| |languages| |other| |than| |English| |.|) 0 ; ()
+gr-list: 1
+(|dobj| |For:1_IF| |communication:3_NN1|)
+(|ncmod| _ |communication:3_NN1| |than:7_CSN|)
+(|dobj| |than:7_CSN| |English:8_NP1|)
+(|ncmod| _ |communication:3_NN1| |in:4_II|)
+(|dobj| |in:4_II| |language+s:5_NN2|)
+(|ncmod| _ |language+s:5_NN2| |other:6_PPX2|)
+(|ncmod| _ |communication:3_NN1| |Wikipedia-related:2_JJ|)
+
+
+(|Serving| |as| |virtual| |librarians| |,| |Wikipedia| |volunteers| |tackle| |your| |questions| |on| |a| |wide| |range| |of| |subjects| |.|) 1 ; (-25.763)
+gr-list: 1
+(|xmod| _ |tackle:8_VV0| |Serve+ing:1_VVG|)
+(|ncsubj| |tackle:8_VV0| |volunteer+s:7_NN2| _)
+(|dobj| |tackle:8_VV0| |question+s:10_NN2|)
+(|det| |question+s:10_NN2| |your:9_APP$|)
+(|ncmod| _ |question+s:10_NN2| |on:11_II|)
+(|dobj| |on:11_II| |range:14_NN1|)
+(|det| |range:14_NN1| |a:12_AT1|)
+(|ncmod| _ |range:14_NN1| |wide:13_JJ|)
+(|iobj| |range:14_NN1| |of:15_IO|)
+(|dobj| |of:15_IO| |subject+s:16_NN2|)
+(|ncmod| _ |volunteer+s:7_NN2| |Wikipedia:6_NP1|)
+(|iobj| |Serve+ing:1_VVG| |as:2_CSA|)
+(|dobj| |as:2_CSA| |librarian+s:4_NN2|)
+(|ncmod| _ |librarian+s:4_NN2| |virtual:3_JJ|)
+
+
+(|Announcements| |,| |updates| |,| |articles| |and| |press| |releases| |on| |Wikipedia| |and| |the| |Wikimedia| |Foundation| |.|) 0 ; ()
+gr-list: 1
+(|conj| |and:6_CC| |release+s:8_VVZ|)
+(|ncsubj| |release+s:8_VVZ| |press:7_NN1| _)
+(|iobj| |release+s:8_VVZ| |on:9_II|)
+(|dobj| |on:9_II| |and:11_CC|)
+(|conj| |and:11_CC| |Wikipedia:10_NP1|)
+(|conj| |and:11_CC| |Foundation:14_NN1|)
+(|det| |Foundation:14_NN1| |the:12_AT|)
+(|ncmod| _ |Foundation:14_NN1| |Wikimedia:13_NP1|)
+(|ncmod| _ |article+s:5_NN2| |Announcement+s:1_NN2|)
+(|ta| |bal| |Announcement+s:1_NN2| |updates:3_RR|)
+
+
+(|For| |discussions| |about| |Wikipedia| |itself| |,| |including| |areas| |for| |technical| |issues| |and| |policies| |.|) 0 ; ()
+gr-list: 1
+(|dobj| |For:1_IF| |discussion+s:2_NN2|)
+(|ncmod| _ |discussion+s:2_NN2| |about:3_II|)
+(|dobj| |about:3_II| |and:12_CC|)
+(|conj| |and:12_CC| |Wikipedia:4_NP1|)
+(|conj| |and:12_CC| |itself:5_PPX1|)
+(|conj| |and:12_CC| |area+s:8_NN2|)
+(|conj| |and:12_CC| |policy+s:13_NN2|)
+(|ncmod| _ |area+s:8_NN2| |for:9_IF|)
+(|dobj| |for:9_IF| |issue+s:11_NN2|)
+(|ncmod| _ |issue+s:11_NN2| |technical:10_JJ|)
+(|ncsubj| |include+ing:7_VVG| |area+s:8_NN2| _)
+(|ncmod| _ |area+s:8_NN2| |include+ing:7_VVG|)
+
+
